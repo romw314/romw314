@@ -3,7 +3,7 @@
 
 |||
 |---|---|
-| 🔭 I’m currently working on | - |
+| 🔭 I’m currently working on | [The maze box](https://gd.games/romw/the-maze-box) |
 | 🌱 I’m currently learning | **GDevelop**, React, JavaScript, Github Actions |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
