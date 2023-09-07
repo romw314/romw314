@@ -3,8 +3,8 @@
 
 |||
 |---|---|
-| 🔭 I’m currently working on | [The maze box](https://gd.games/romw/the-maze-box) |
-| 🌱 I’m currently learning | **GDevelop**, React, JavaScript, Github Actions |
+| 🔭 I’m currently working on | [The maze box](https://github.com/gigastore) |
+| 🌱 I’m currently learning | **JavaScript (Electron)**, CSS, HTML |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
 | 💬 Ask me about something | [Open issue on romw314/romw314](https://github.com/romw314/romw314/issues/new/choose) |
