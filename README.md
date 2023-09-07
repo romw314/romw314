@@ -3,7 +3,7 @@
 
 |||
 |---|---|
-| 🔭 I’m currently working on | [The maze box](https://github.com/gigastore) |
+| 🔭 I’m currently working on | [The GigaStore Project](https://github.com/gigastore) |
 | 🌱 I’m currently learning | **JavaScript (Electron)**, CSS, HTML |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
