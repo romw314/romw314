@@ -4,9 +4,8 @@
 |||
 |---|---|
 | 🔭 I’m currently working on | - |
-| 🌱 I’m currently learning | **JavaScript (Electron)**, CSS, HTML |
+| 🌱 I’m currently learning | **Python (Pypy3)**, Docker |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
 | 💬 Ask me about something | [Open issue on romw314/romw314](https://github.com/romw314/romw314/issues/new/choose) |
-| 📫 How to reach me | - |
-| 😄 Pronouns | - |
+| 📫 How to reach me | [itch.io](https://romw314.itch.io), [My website](https://romw314.github.io) |
