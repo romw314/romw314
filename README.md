@@ -3,8 +3,8 @@
 
 |||
 |---|---|
-| 🔭 I’m currently working on | GreenAcidPipe/Redgas |
-| 🌱 I’m currently learning | **Electron.js**, **JavaScript (Browser)**, JavaScript (Node.js), HTML |
+| 🔭 I’m currently working on | Pay and Wash |
+| 🌱 I’m currently learning | **SCSS/Sass** |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
 | 💬 Ask me about something | [Open issue on romw314/romw314](https://github.com/romw314/romw314/issues/new/choose) |
