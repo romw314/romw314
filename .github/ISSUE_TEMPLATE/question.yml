@@ -1,0 +1,19 @@
+name: Question
+description: Ask me a question.
+title: 'Question: <title>'
+labels: ["question"]
+assignees:
+  - romw314
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!WARNING]
+        >
+        > This should follow [this](https://github.com/romw314/romw314/blob/master/CONTRIBUTING.md). Otherwise, it will be closed as invalid.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Type your question here.
