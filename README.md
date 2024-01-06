@@ -7,5 +7,5 @@
 | 🌱 I’m currently learning | [**Rust**](https://rust-lang.org) |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
-| 💬 Ask me about something | <details><summary>**Don't ask me questions, if you don't *really* want**</summary><details><summary>Probably, you don't need to open this</summary>[Click here, removing the **EXTRA** part of the URL](https://github.com/romw314/romw314EXTRA/issues/new/choose)</details></details> |
+| 💬 Ask me about something | <details><summary>**Don't ask me questions, if you don't *really* want**</summary><details><summary>Probably, you don't need to open this</summary>Go here, removing the **EXTRA** part of the URL: https://github.com/romw314/romw314EXTRA/issues/new/choose</details></details> |
 | 📫 How to reach me | [itch.io](https://romw314.itch.io), [My website](https://romw314.github.io) |
