@@ -3,8 +3,8 @@
 
 |||
 |---|---|
-| 🔭 I’m currently working on | [**RBGN**](https://github.com/romw314/rust-bashgenn), [Bashgenn Docs](https://github.com/romw314/bashgenn-docs) |
-| 🌱 I’m currently learning | [**Rust**](https://rust-lang.org) |
+| 🔭 I’m currently working on | - |
+| 🌱 I’m currently learning | - |
 | 👯 I’m looking to collaborate on | - |
 | 🤔 I’m looking for help with | - |
 | 💬 Ask me about something | <details><summary>**Don't ask me questions, if you don't *really* want**</summary><details><summary>Probably, you don't need to open this</summary>Go here, removing the **EXTRA** part of the URL: https://github.com/romw314/romw314EXTRA/issues/new/choose</details></details> |
